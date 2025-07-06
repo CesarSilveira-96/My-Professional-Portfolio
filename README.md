@@ -25,4 +25,6 @@ Feel free to connect or reach out!
 
 💼 LinkedIn: linkedin.com/in/cesar-silveira
 
+
+See more of my studies and other repos at my GitHub profile page: 
 🐙 GitHub: github.com/CesarSilveira-96
