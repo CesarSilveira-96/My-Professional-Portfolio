@@ -1,4 +1,4 @@
-Welcome to my professional portfolio repository! This project was created to present my skillset and the development projects i built.
+Welcome to my professional portfolio repository! This project was created to present my skillset and the development projects i've built so far.
 
 About Me
 I'm a passionate and results-driven professional with a diverse background. I’m ever expanding my skills in front-end and back-end development with technologies like HTML, CSS, JavaScript, Python, Git and more.
