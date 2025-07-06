@@ -1,0 +1,218 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title>Meu Portfólio - César Silveira</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
+    <link rel="stylesheet" href="../static/assets/css/main.css"/>
+    <noscript>
+        <link rel="stylesheet" href="../static/assets/css/noscript.css"/>
+    </noscript>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header" class="alt">
+        <nav class="language-selector">
+            <a href="{{ url_for('home') }}">
+                <img class="lang-flag" src="{{ url_for('static', filename='images/gbflag.png') }}" alt="English">
+                <span>EN</span>
+            </a>
+            <a href="{{ url_for('home_pt') }}">
+                <img class="lang-flag" src="{{ url_for('static', filename='images/brflag.png') }}" alt="Português">
+                <span>PT-BR</span>
+            </a>
+        </nav>
+        <span class="logo"><img src="../static/images/icons8-lightning-gradient-96.png" alt=""/></span>
+        <h1>César Silveira</h1>
+        <p>Desenvolvedor Júnior (em formação ⚙️)</p>
+    </header>
+
+    <!-- Nav -->
+    <nav id="nav">
+        <ul>
+            <li><a href="#intro" class="active">Sobre Mim</a></li>
+            <li><a href="#first">Habilidades e Competências</a></li>
+            <li><a href="#second">Experiências Profissionais</a></li>
+            <li><a href="#cta">Meus Projetos</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- Introduction -->
+        <section id="intro" class="main">
+            <div class="spotlight">
+                <div class="content">
+                    <header class="major">
+                        <h2>Quem sou eu?</h2>
+                    </header>
+                    <p>
+                        Sou um entusiasta de tecnologia que adora escrever código, solucionar problemas e aprender novas
+                        habilidades. Embora atualmente esteja em transição para uma carreira em Desenvolvimento Web e de
+                        Software, sou formado em Educação Física pela UNESP – Câmpus de Rio Claro, e atuei por mais de 4 anos em
+                        Marketing Digital (Mídia Paga e Performance) como Estrategista, Analista e Account Lead.
+                    </p>
+                    <p>
+                        Acredito que tudo na vida traz consigo algo de positivo. Essas experiências anteriores me
+                        ajudaram a amadurecer e a desenvolver meu olhar analítico, raciocínio lógico e diversas soft
+                        skills — como gestão de tarefas, liderança, trabalho em equipe e comunicação — todas elas que
+                        pretendo aplicar nesta nova fase como desenvolvedor.
+                    </p>
+                </div>
+                <span class="image top" style="mt 5rem"><img src="../static/images/myphoto6.2.jpeg" alt=""/></span>
+            </div>
+        </section>
+
+        <!-- First Section -->
+        <section id="first" class="main special">
+            <header class="major">
+                <h2>Habilidades e Competências</h2>
+            </header>
+            <ul class="features">
+                <li>
+                    <span class="icon solid major style1 fa-code"></span>
+                    <h3>Desenvolvimento Web</h3>
+                    <p>Experiência em desenvolvimento web com HTML5, CSS3, JavaScript e Python. Capaz de criar APIs
+                        simples com Flask e estruturar projetos usando Django.</p>
+                </li>
+                <li>
+                    <span class="icon major brands style3 fa-git-alt"></span>
+                    <h3>Git & Github</h3>
+                    <p>Domínio de Git e GitHub para controle de versão, incluindo gestão de branches, code reviews e
+                        fluxos colaborativos que potencializam a eficiência da equipe.</p>
+                </li>
+                <li>
+                    <span class="icon major style5 fa-comment-alt"></span>
+                    <h3>Soft Skills</h3>
+                    <p>Experiência em liderar equipes e gerenciar a comunicação com clientes e parceiros. Habilidade
+                        para estimular trabalho em equipe e diálogo claro, orientado a soluções. Proativo e adaptável.
+                        Nativo em português e fluente em inglês.</p>
+                </li>
+            </ul>
+            <footer class="major">
+                <!--									<ul class="actions special">-->
+                <!--										<li><a href="generic.html" class="button">Learn More</a></li>-->
+                <!--									</ul>-->
+            </footer>
+        </section>
+
+        <!-- Second Section -->
+        <section id="second" class="main special">
+            <header class="major">
+                <h2>Trajetória Profissional</h2>
+                <p>Minhas experiências profissionais mais significativas até o momento:</p>
+            </header>
+
+            <div class="container">
+                <div class="timeline">
+
+                    <!-- Item 1 -->
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h4>Sr. Media & Performance Analyst </h4>
+                            <h6 class="text-muted">Qive · 2024 – 2025</h6>
+                            <p>Papel ativo desenvolvendo e liderando a estratégia de mídia digital, com foco em
+                                performance e aquisição de leads de médias e grandes empresas. Atuação conectando as
+                                equipes de conteúdo, BI, produto, web design e desenvolvimento.</p>
+                        </div>
+                    </div>
+
+                    <!-- Item 2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h4>Media Account Lead</h4>
+                            <h6 class="text-muted">Monks · 2022 – 2024</h6>
+                            <p>Gerenciamento de contas-chave (HPE Automotores – fabricante de Mitsubishi e Suzuki no Brasil) e
+                                condução do planejamento estratégico para campanhas de marketing em múltiplas plataformas (Meta Ads,
+                                Google Ads, LinkedIn, DV360). Responsável pela comunicação direta com cliente e parceiros,
+                                trabalhar com equipes multidisciplinares (DA&DE, WebDev, Design, Conteúdo) e coordenar
+                                o time e as operações de mídia e performance.</p>
+                        </div>
+                    </div>
+
+                    <!-- Item 3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h4>Jr. & Sr. Media Analyst</h4>
+                            <h6 class="text-muted">Monks · 2021 – 2022</h6>
+                            <p>Responsável pela otimização e análise de performance em campanhas de marketing digital. Desenvolver
+                                relatórios e insights acionáveis para clientes de grande porte (HPE Automotores –
+                                Mitsubishi & Suzuki no Brasil).</p>
+                        </div>
+                    </div>
+
+                    <!-- Item 4 -->
+                    <div class="timeline-item">
+                        <div class="timeline-content">
+                            <h4>Trainee de Gestão de Pessoas</h4>
+                            <h6 class="text-muted">Torque Jr. · 2020 – 2021</h6>
+                            <p>Atuação em projetos de desenvolvimento organizacional, treinamentos em metodologias ágeis
+                                e de gestão e ações de melhoria do clima interno. Participação em projetos de soluções
+                                de engenharia mecânica para empresas locais (Lavras – MG).</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <!-- Get Started -->
+        <section id="cta" class="main special">
+            <header class="major">
+                <h2>Mais dos meus projetos</h2>
+				<p>Meu repositório pessoal: <a href="https://github.com/CesarSilveira-96" style="em"> github.com/CesarSilveira-96 </a> </p>
+                <p>Projetos do curso '100 Days of Code': <a href="https://github.com/CesarSilveira-96/100DaysOfCode"> github.com/100DaysOfCode </a> </p>
+
+            </header>
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <section>
+            <h2>Este sou eu!</h2>
+            <p> Espero te ver novamente em breve!</p>
+
+        </section>
+        <section>
+            <h2>Meus contatos</h2>
+            <dl class="alt">
+                <dt>Tel</dt>
+                <dd>+55 (35) 98473-3337</dd>
+                <dt>Email</dt>
+                <dd>cesarsilveira35@gmail.com</dd>
+            </dl>
+            <ul class="icons">
+                <li><a href="https://github.com/CesarSilveira-96" class="icon brands fa-github alt"><span class="label">GitHub</span></a>
+                </li>
+                <li><a href="https://www.linkedin.com/in/cesar-silveira/" class="icon brands fa-linkedin alt"><span
+                        class="label">Linkedin</span></a></li>
+            </ul>
+        </section>
+        <p class="copyright">Meu portfólio pessoal. Design do template em: <a href="https://html5up.net">HTML5 UP</a>.</p>
+    </footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="../static/assets/js/jquery.min.js"></script>
+<script src="../static/assets/js/jquery.scrollex.min.js"></script>
+<script src="../static/assets/js/jquery.scrolly.min.js"></script>
+<script src="../static/assets/js/browser.min.js"></script>
+<script src="../static/assets/js/breakpoints.min.js"></script>
+<script src="../static/assets/js/util.js"></script>
+<script src="../static/assets/js/main.js"></script>
+
+</body>
+</html>
