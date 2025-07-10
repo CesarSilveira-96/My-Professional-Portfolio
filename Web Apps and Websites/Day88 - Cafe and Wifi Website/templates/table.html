@@ -1,0 +1,79 @@
+{%block table%}
+<table class="table table-dark table-striped table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Cafe Name</th>
+      <th scope="col">Coffee Quality</th>
+      <th scope="col">Wifi Speed</th>
+      <th scope="col">Power Outlet</th>
+      <th scope="col">Final Rating</th>
+      <th scope="col">Review</th>
+      <th scope="col">Location</th>
+      <th scope="col">Open Hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for cafe in cafes %}
+    <tr>
+      <td>{{cafe.cafe_name}}</td>
+      <td>{{cafe.coffee_rating}}</td>
+      <td>{{cafe.wifi_rating}}</td>
+      <td>{{cafe.power_outlet_rating}}</td>
+      <td>{{cafe.final_rating}}</td>
+      <td>
+        <a
+          href="#"
+          class="btn btn-link text-light p-0"
+          data-bs-toggle="modal"
+          data-bs-target="#reviewModal{{ cafe.id }}"
+        >
+          See Review
+        </a>
+      </td>
+      <td>
+        <a
+          href="{{cafe.location}}"
+          class="btn btn-link text-light p-0"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Go to Maps</a
+        >
+      </td>
+      <td>
+        {{cafe.open_time.split(":")[0]}}h to
+        {{cafe.closing_time.split(":")[0]}}h
+      </td>
+    </tr>
+    <div
+      class="modal fade"
+      id="reviewModal{{ cafe.id }}"
+      tabindex="-1"
+      aria-labelledby="reviewModalLabel{{ cafe.id }}"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered">
+        <div
+          class="modal-content bg-dark text-white border-coffee rounded-3 modal-review"
+        >
+          <div class="modal-header border-0">
+            <h5 class="modal-title" id="reviewModalLabel{{ cafe.id }}">
+              {{ cafe.cafe_name }} - Review
+            </h5>
+            <button
+              type="button"
+              class="btn-close btn-close-white"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <p>{{ cafe.review }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

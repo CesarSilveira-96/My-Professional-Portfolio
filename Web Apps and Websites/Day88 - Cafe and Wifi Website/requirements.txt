@@ -1,0 +1,5 @@
+flask_bootstrap5==0.1.dev1
+Flask==2.3.2
+WTForms==3.0.1
+Flask_WTF==1.2.1
+Werkzeug==3.0.0
