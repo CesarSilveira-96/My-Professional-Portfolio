@@ -1,27 +1,53 @@
-Welcome to my professional portfolio repository! This project was created to present my skillset and the development projects i've built so far.
+<h1 align="center">👨‍💻 César Silveira</h1>
+<h3 align="center">Desenvolvedor em formação | Transição de carreira | Apaixonado por tecnologia</h3>
 
-About Me
-I'm a passionate and results-driven professional with a diverse background. I’m ever expanding my skills in front-end and back-end development with technologies like HTML, CSS, JavaScript, Python, Git and more.
+---
 
-This portfolio includes:
+### 👋 Sobre mim
 
-- A section for personal and collaborative projects
+Olá! Sou o César, profissional em transição de carreira com background em gestão e mídia digital.  
+Atualmente, estudo **programação com foco em desenvolvimento web**, utilizando tecnologias como **Python, JavaScript, HTML e CSS**.  
+Sou movido pela curiosidade, aprendizado contínuo e pelo desejo de construir soluções inteligentes.
 
-- Technical skills and tools I work with
+---
 
-- Courses and certifications that shaped my journey
+### 🛠️ Tecnologias e Ferramentas
 
-- An option to download my résumé/CV
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</div>
 
-Here is my CV for more details on my carreer and skills:
-[Curriculum Vitae - César Silveira.pdf](https://github.com/user-attachments/files/21092081/Curriculum.Vitae.-.Cesar.Silveira.pdf)
+---
 
-Feel free to connect or reach out!
+### 📊 Estatísticas
 
-📧 Email: cesarsilveira35@gmail.com
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CesarSilveira-96&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarSilveira-96&layout=compact&theme=tokyonight" />
+</div>
 
-💼 LinkedIn: linkedin.com/in/cesar-silveira
+---
 
-See more of my studies and other repos at my GitHub profile page:
+### 🌐 Conecte-se comigo
 
-🐙 GitHub: github.com/CesarSilveira-96
+<div align="center">
+  <a href="https://www.linkedin.com/in/cesar-silveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/CesarSilveira-96" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cesarsilveira96/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+> _"O importante é nunca parar de questionar."_ 🚀
