@@ -50,4 +50,4 @@ Sou movido pela curiosidade, aprendizado contínuo e pelo desejo de construir so
 
 ---
 
-> _"O importante é nunca parar de questionar."_ 🚀
+<div align="center"> _"O importante é nunca parar de questionar."_ 🚀</div>
