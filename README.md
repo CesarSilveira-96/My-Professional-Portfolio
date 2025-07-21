@@ -5,23 +5,27 @@
 
 ### 👋 Sobre mim
 
-Olá! Sou o César, profissional em transição de carreira com background em gestão e mídia digital.  
-Atualmente, estudo **programação com foco em desenvolvimento web**, utilizando tecnologias como **Python, JavaScript, HTML e CSS**.  
-Sou movido pela curiosidade, aprendizado contínuo e pelo desejo de construir soluções inteligentes.
+Olá! Sou o César, profissional em transição de carreira com background em gestão e mídia digital. Atualmente, estudo programação com foco em **Desenvolvimento de Software full stack**, utilizando tecnologias como **JavaScript, React, HTML, CSS, Java e Python**.
+
+Sou movido por curiosidade, aprendizado contínuo e pelo desejo de construir soluções inteligentes e escaláveis.
+
+Estou **em busca de uma oportunidade** na área, onde possa colaborar com times multidisciplinares, aprender e me desenvolver em arquitetura de software, cloud e muito mais.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</div>
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> </div>
 
 ---
 
