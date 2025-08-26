@@ -5,7 +5,7 @@
 
 ### 👋 Sobre mim
 
-Olá! Sou o César, profissional em transição de carreira com background em gestão e mídia digital. Atualmente, estudo programação com foco em **Desenvolvimento de Software full stack**, utilizando tecnologias como **JavaScript, React, HTML, CSS, Java e Python**.
+Olá! Sou o César, profissional em transição de carreira com background em gestão e mídia digital. Atualmente, faço graduação em **Análise e Desenvolvimento de Software no Senac** com o objetivo de me tornar um **desenvolvedor full stack**, utilizando tecnologias como **Python, JavaScript, HTML, CSS, Java**, entre outras.
 
 Sou movido por curiosidade, aprendizado contínuo e pelo desejo de construir soluções inteligentes e escaláveis.
 
@@ -55,3 +55,4 @@ Estou **em busca de uma oportunidade** na área, onde possa colaborar com times 
 ---
 
 <div align="center"> "O importante é nunca parar de questionar." 🧠</div>
+
